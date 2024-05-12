@@ -1,4 +1,4 @@
-# TikDown.click
+# TikDown
 
 A simple tiktok video downloader using vue.js
 
