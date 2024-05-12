@@ -35,7 +35,7 @@ npm run start
 ```
 
 # Author
-* Jan Liby Dela Costa (libyzxy0) 
+* Kenneth Gregorio Perez (polongdev) 
 
 # LICENSE
-See license here [MIT LICENSE](https://github.com/libyzxy0/tiktok-downloader/blob/main/LICENSE) 
+See license here [MIT LICENSE](https://github.com/polongdev/tiktok-downloader/blob/main/LICENSE) 
